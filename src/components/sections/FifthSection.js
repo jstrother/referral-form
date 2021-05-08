@@ -1,6 +1,6 @@
 function FifthSection() {
   return (
-    <div className="Section">
+    <div className="section">
       Fifth Section
     </div>
   );

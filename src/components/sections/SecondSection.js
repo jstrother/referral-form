@@ -1,6 +1,6 @@
 function SecondSection() {
   return (
-    <div className="Section">
+    <div className="section">
       Second Section
     </div>
   );

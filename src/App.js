@@ -1,9 +1,9 @@
 import './App.css';
-import FirstSection from './components/FirstSection.js';
-import SecondSection from './components/SecondSection.js';
-import ThirdSection from './components/ThirdSection.js';
-import FourthSection from './components/FourthSection.js';
-import FifthSection from './components/FifthSection.js';
+import FirstSection from './components/sections/FirstSection.js';
+import SecondSection from './components/sections/SecondSection.js';
+import ThirdSection from './components/sections/ThirdSection.js';
+import FourthSection from './components/sections/FourthSection.js';
+import FifthSection from './components/sections/FifthSection.js';
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 function FourthSection() {
   return (
-    <div className="Section">
+    <div className="section">
       Fourth Section
     </div>
   );

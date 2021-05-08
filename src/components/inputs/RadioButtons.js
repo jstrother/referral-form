@@ -1,6 +1,7 @@
 function RadioButtons(props) {
   return (
     <div>
+      <p>{props.question}</p>
       <div>
         <input type="radio" id="yes" value="yes" name={props.name} />
         <label for="yes">Yes</label>
