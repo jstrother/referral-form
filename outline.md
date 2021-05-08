@@ -33,6 +33,11 @@ i. name
 text fields
 ii. phone
 text fields
+h. (if under 18)
+
+- guardian info
+- name
+- etc.
 
 4.Demographics
 a. Gender
