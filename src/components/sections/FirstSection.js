@@ -1,4 +1,4 @@
-import RadioButtons from '../inputs/RadioButtons.js';
+import RadioButtons from '../inputs/RadioButtons';
 
 function FirstSection() {
   return (
