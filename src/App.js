@@ -5,7 +5,7 @@ import ThirdSection from './components/sections/ThirdSection.js';
 import FourthSection from './components/sections/FourthSection.js';
 import FifthSection from './components/sections/FifthSection.js';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -20,5 +20,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

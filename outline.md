@@ -1,5 +1,7 @@
 # Referral Form - Main component
 
+create each section as it's own form to see how well it works putting that set of info into redux state
+
 ## First Section - Section component
 
 1.Has person received services from here before?
@@ -51,6 +53,7 @@ text fields
 c. Translator needed?
 yes / no
 radio button
+if yes: which language? (text input)
 
 ## Third Section - Section component
 

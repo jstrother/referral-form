@@ -9,6 +9,13 @@ function PersonalInfo() {
       <Name />
       <Address />
       <TextInput
+        name="birthday"
+        label="Birthday"
+        min="5"
+        max="10"
+        size="11"
+      />
+      <TextInput
         name="ssn"
         label="Social Security Number"
         min="11"
